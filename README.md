@@ -7,9 +7,9 @@
 <br/>
 <br/>
 
-<a href="https://inttype-dev.github.io"><img src="https://img.shields.io/badge/DEV%20BLOG-inttype--dev.github.io-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="mailto:inttype96@gmail.com"><img src="https://img.shields.io/badge/CONTACT-inttype96%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://linkedin.com/in/inttype"><img src="https://img.shields.io/badge/LINKEDIN-linkedin.com%2Fin%2Finttype-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://inttype-dev.github.io"><img src="https://img.shields.io/badge/DEV%20BLOG-Blog-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="mailto:inttype96@gmail.com"><img src="https://img.shields.io/badge/CONTACT-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://linkedin.com/in/inttype"><img src="https://img.shields.io/badge/LINKEDIN-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/>
 
